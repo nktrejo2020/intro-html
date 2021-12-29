@@ -1,14 +1,15 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+<html>
+<body>
+<h1> about me </h1>
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+A Sustainable Product and Manufacturing professional specializing in compliance. I've demonstrated leadership through management of technical projects in lean manufacturing, consumer services, and research sectors. I've proven ability to implement innovation roadmaps and development of quality standards. Maintain open channels of communication (cross-culturally and cross-functionally) resulting in improved teamwork cultures and elevated attention to product integrity. Consistently guide and mentor others to foster a continuous learning mindset and milestone achievement.
 
-Oh! I haven't introduced myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+<h1> writings... </h1>
 
-I'll meet you over there, can't wait to get started!
 
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+<h1> product developments... </h1>
+
+  </body>
+</html>
